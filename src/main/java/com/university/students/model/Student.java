@@ -1,7 +1,5 @@
 package com.university.students.model;
 
-import java.util.LinkedList;
-
 public class Student {
     private String firstName;
     private String lastName;
@@ -21,5 +19,4 @@ public class Student {
     public int getCourse(){
         return course;
     }
-
 }
